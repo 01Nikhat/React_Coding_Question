@@ -1,0 +1,35 @@
+.container {
+  width: 100%;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 12px;
+  color: black;
+  
+}
+
+.container-box {
+  background: rgb(194, 191, 191);
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 12px rgba(53, 53, 53, 0.2);
+}
+
+.button {
+  width: 100%;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  height: 2rem;
+}
+
+.content {
+  margin-top: 10px;
+}
+.right{
+  float: right;
+}
