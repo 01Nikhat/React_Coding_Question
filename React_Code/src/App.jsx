@@ -1,4 +1,6 @@
 import AccordianApp from "./pages/AccordianApp"
+import OtpInputApp from "./pages/OtpInputApp"
+import TodoListApp from "./pages/TodoListApp"
 
 
 function App() {
@@ -6,8 +8,9 @@ function App() {
 
   return (
     
-    <AccordianApp />
-    
+   // <AccordianApp />
+   // <OtpInputApp />
+   <TodoListApp />
   )
 }
 
