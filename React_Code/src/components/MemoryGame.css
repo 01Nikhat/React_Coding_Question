@@ -1,0 +1,17 @@
+.grid-container{
+  height: 15rem;
+  width: 15rem;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  margin-top: 12px;
+}
+.cards{
+height: 2rem;
+width: 2rem;
+display: flex;
+border: 1px solid black;
+align-items: center;
+justify-content: center;
+font-size: 1.5rem;
+cursor: pointer;
+}
