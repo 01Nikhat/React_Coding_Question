@@ -2,6 +2,7 @@ import AccordianApp from "./pages/AccordianApp"
 import GreedApp from "./pages/GreedApp"
 import MemoryGameApp from "./pages/MemoryGameApp"
 import OtpInputApp from "./pages/OtpInputApp"
+import PaginationApp from "./pages/PaginationApp"
 import ProgressBarApp from "./pages/ProgressBarApp"
 import TodoListApp from "./pages/TodoListApp"
 
@@ -16,7 +17,8 @@ function App() {
    // <TodoListApp />
  //  <ProgressBarApp />
  //<GreedApp />
- <MemoryGameApp />
+ //<MemoryGameApp />
+ <PaginationApp />
   )
 }
 
